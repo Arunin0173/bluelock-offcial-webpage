@@ -3,7 +3,7 @@
 ## HTML (HyperText Markup Language)
 
 # Provides the structure of the webpage.
-Defines elements like headings, paragraphs, links, images, and buttons.
+# Defines elements like headings, paragraphs, links, images, and buttons.
 ## CSS (Cascading Style Sheets)
  
 # Adds style and design to the webpage, including colors, fonts, layout, and animations.
